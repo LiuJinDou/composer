@@ -1,0 +1,14 @@
+{
+    "name": "liujindou/composer",
+    "description": "composer install study",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ljd",
+            "email": "l1975876584@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
