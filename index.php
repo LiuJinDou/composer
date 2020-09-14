@@ -15,4 +15,8 @@ class config
 	{
 		# code...
 	}
+	public function __call($value='')
+	{
+		# code...
+	}
 }
