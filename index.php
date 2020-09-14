@@ -10,4 +10,9 @@ class config
 	{
 		# code...
 	}
+
+	public function __toString($value='')
+	{
+		# code...
+	}
 }
